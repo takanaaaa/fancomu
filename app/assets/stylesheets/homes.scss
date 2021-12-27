@@ -32,13 +32,18 @@ $cGray: #333333;
         & > li {
           font-size: 30px;
           padding: 5px 30px;
-          color: $cGray;
 
+          & > a {
+            color: $cGray;
+          }
 
           &:nth-child(2) {
-            color: #fff;
             background-color: $cGray;
             border-radius: 50px;
+
+            & > a {
+              color: #fff;
+            }
           }
         }
       }
