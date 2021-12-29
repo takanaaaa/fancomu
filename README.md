@@ -18,10 +18,12 @@
 情報が公開された時やファン同士で交流したい時
 
 ## 設計書
+ER図. 
+https://drive.google.com/file/d/1uTLGN13anMGIqGXKnGMsf1peKVj6mQVw/view?usp=sharing
 
 
 ## チャレンジ要素一覧
-＜https://docs.google.com/spreadsheets/d/14Qb9ny-EV9rNA-noKiFcQG_hfoJJJpJrr2lmRFd7R78/edit?usp=sharing＞
+https://docs.google.com/spreadsheets/d/14Qb9ny-EV9rNA-noKiFcQG_hfoJJJpJrr2lmRFd7R78/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
