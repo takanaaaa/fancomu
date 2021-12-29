@@ -18,11 +18,7 @@
 情報が公開された時やファン同士で交流したい時
 
 ## 設計書
-ER図. 
-https://drive.google.com/file/d/1uTLGN13anMGIqGXKnGMsf1peKVj6mQVw/view?usp=sharing. 
-UI. 
-<img width="986" alt="スクリーンショット 2021-12-29 22 42 29" src="https://user-images.githubusercontent.com/84810159/147670312-12f5aba3-06ee-4df1-b7a6-8ebc1030e355.png">. 
-<img width="628" alt="スクリーンショット 2021-12-29 22 43 58" src="https://user-images.githubusercontent.com/84810159/147670371-0a35062d-820b-414b-8f4e-2f615198dfa8.png">
+ER図. https://drive.google.com/file/d/1uTLGN13anMGIqGXKnGMsf1peKVj6mQVw/view?usp=sharing. UI. <img width="986" alt="スクリーンショット 2021-12-29 22 42 29" src="https://user-images.githubusercontent.com/84810159/147670312-12f5aba3-06ee-4df1-b7a6-8ebc1030e355.png">. <img width="628" alt="スクリーンショット 2021-12-29 22 43 58" src="https://user-images.githubusercontent.com/84810159/147670371-0a35062d-820b-414b-8f4e-2f615198dfa8.png">
 
 
 ## チャレンジ要素一覧
